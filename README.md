@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/kgolebiewski95/Intro-section-with-dropdown-navigation-containing-bootstrap
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://intro-section-bootstrap.netlify.app/
 
 ### Built with
 
